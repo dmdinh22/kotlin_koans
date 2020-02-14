@@ -14,7 +14,7 @@ files:
     possible_answer: 'fun foo(name: String, number: Int = 42, toUpperCase: Boolean
       = false)'
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     fun foo(name: String, number: Int, toUpperCase: Boolean) =
             (if (toUpperCase) name.toUpperCase() else name) + number
@@ -41,5 +41,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
