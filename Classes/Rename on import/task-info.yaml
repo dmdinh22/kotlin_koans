@@ -26,7 +26,7 @@ files:
       offset: 144
     initialized_from_dependency: false
     possible_answer: KRandom.nextInt(2) +
-    selected: false
+    selected: true
     status: Solved
   - offset: 226
     length: 23
